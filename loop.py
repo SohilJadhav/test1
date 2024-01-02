@@ -6,3 +6,4 @@ for i in range(5):
 fruits = ["apple", "banana", "orange"]
 for fruit in fruits:
     print(fruit)
+    print(i)
